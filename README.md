@@ -62,3 +62,9 @@ node-mvc-crud-product-supplier/
 ├── package.json
 ├── README.md
 └── seed.js
+---
+
+## 👤 Author
+- Name: **Võ Thị Thương Hoài**  
+- Student ID: **22699091**  
+- GitHub: [Tiuquoai](https://github.com/Tiuquoai/mvc-crud-product-supplier)
